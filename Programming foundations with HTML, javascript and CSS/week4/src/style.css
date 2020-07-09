@@ -1,0 +1,71 @@
+canvas{
+  border: 10px solid dimgray;
+  height: 300px;
+  width:500px;
+  border-radius:25px;
+}
+.h11{
+ background-image:  url("https://lh3.googleusercontent.com/Ts_JDDrH_7Iat5_SDixVs02JU4qT-HaQhTSmg0bG6BUcNrdYCpFkW4bTj8y5_csC");
+  background-size: cover;
+   background-repeat: no-repeat;
+  border: 1px solid GhostWhite;
+  border-radius:25px;
+  text-align:center;
+  color:GhostWhite;
+}
+h1{
+  border: 1px solid GhostWhite;
+  border-radius:10px;
+  color:GhostWhite;
+}
+h4{
+  border: 1px solid GhostWhite;
+  border-radius:10px;
+  color:GhostWhite;
+}
+
+body{
+  background-color:#D3B059;
+}
+.button2{
+  background-color:#FA4242;
+  color:GhostWhite;
+   border-radius:20px;
+}
+.button3{
+  background-color:#4251FA;
+  color:GhostWhite;
+   border-radius:20px;
+}
+.button4{
+  background-color:#08A444;
+  color:GhostWhite;
+   border-radius:20px;
+}
+.button5{
+  background-color:#7B08A4;
+  color:GhostWhite;
+   border-radius:20px;
+}
+.button7{
+  background-color:#777777;
+  color:GhostWhite;
+  border-radius:20px;
+}
+.button6{
+   border-radius:20px;
+}
+.image1{
+  
+  border:1px solid GhostWhite;
+  border-radius:25px;
+  background-image: url("https://lh3.googleusercontent.com/Ts_JDDrH_7Iat5_SDixVs02JU4qT-HaQhTSmg0bG6BUcNrdYCpFkW4bTj8y5_csC");
+  background-size: cover;
+   background-repeat: no-repeat;
+  color:GhostWhite;
+}
+body{
+  background-color:black;
+}
+
+
